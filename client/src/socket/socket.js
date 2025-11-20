@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 const SOCKET_URL =
   import.meta.env.VITE_SOCKET_URL ||
-  "https://simple-live-chat-backend.vercel.app";
+  "https://simple-live-chat-backend.onrender.com";
 
 export const socket = io(SOCKET_URL, { autoConnect: false });
 
