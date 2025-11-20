@@ -1,6 +1,6 @@
 # Simple Live Chat
 
-live url =
+live url = https://simple-live-chat-hmkl.vercel.app/
 
 Simple Live Chat is a full‑stack, role‑aware messaging app built with React, Vite, Socket.IO, and a MongoDB/Express backend. It supports real‑time group messages, private messages, typing indicators, presence tracking, and persistent history via MongoDB.
 
